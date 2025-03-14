@@ -1,4 +1,4 @@
-# urbanrouteswebapp_CromeDevToolsUsage
+# Urban Routes web app testing (including requirement analysis, test case creation, test documentation creation, Chrome DevTools usage)
 
 The app builds routes and calculates the travel time and cost for different types of transportation. This testing project contains requirement analysis (decomposition of complex requirements into atomic blocks), cross-browser testing, layout adaptivity testing, test planning, test case creation (using the equivalence partitioning, boundary value analysis), environment setup, test execution (including Chrome development tools usage), test closure, navigating the pages of a test plan
 
